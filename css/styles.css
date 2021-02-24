@@ -4,13 +4,16 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+
+
 .section{
-	background-color: antiquewhite;
-	padding: 20px;
-	margin-left: 50px;
-	margin-right: 50px;
-	margin-top: 30px;
-	margin-bottom: 30px;
+    background-color: #E5D6C3;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .my-container {
     background-color: #EDEDED;
@@ -33,11 +36,9 @@ body {
 	padding: 15px;
 }
 
-#image{
-	margin: 150px;
-}
 
-#myid{
+
+#title{
     background-color: #128C1F;
     width: 140px;
     height: 40px;
@@ -50,7 +51,7 @@ body {
     margin-top: 20px;
     border: 5px solid #0D4A11;
 }
-#pinkid{
+#pinkbox{
 	background-color: violet;
 	padding: 15px;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";

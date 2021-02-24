@@ -4,17 +4,17 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.something {
+.my-container {
     background-color: #EDEDED;
-    width: 250px;
-    height: 30px;
+    width: 350px;
+	height: 180px;
     border-radius: 10px;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-size: 12px;
     text-align: center;
     line-height: 28px;
 }
-.something2 {
+.my-container-2 {
     background-color: #EDEDED;
     width: 330px;
     height: 60px;

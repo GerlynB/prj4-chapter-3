@@ -5,8 +5,6 @@ body {
     background-size: contain;
 }
 
-
-
 .section{
     background-color: #E5D6C3;
     padding: 20px;
@@ -38,6 +36,9 @@ body {
 
 
 
+img {  
+width: 250px;  
+} 
 #title{
     background-color: #128C1F;
     width: 140px;
